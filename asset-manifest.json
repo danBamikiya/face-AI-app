@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rekogniz-ai/static/css/main.bd6533fc.css",
+    "main.js": "/rekogniz-ai/static/js/main.cb43bc64.js",
+    "runtime-main.js": "/rekogniz-ai/static/js/runtime-main.f797d225.js",
+    "vendors.js": "/rekogniz-ai/static/js/vendors.a4bf384f.js",
+    "index.html": "/rekogniz-ai/index.html",
+    "static/media/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;": "/rekogniz-ai/static/media/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;.1feff74f.bin"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f797d225.js",
+    "static/js/vendors.a4bf384f.js",
+    "static/css/main.bd6533fc.css",
+    "static/js/main.cb43bc64.js"
+  ]
+}
